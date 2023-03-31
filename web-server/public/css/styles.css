@@ -43,3 +43,20 @@ header a {
     width: 350px;
     height: 400px;
 }
+
+p{
+    color: black;
+}
+
+input {
+    border: 2px solid #cccccc;
+    padding: 8px;
+}
+
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
